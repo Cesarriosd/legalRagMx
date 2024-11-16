@@ -1,2 +1,2 @@
 # legalRagMx
-This project will develope a RAG for mexican laws
+This project will develope a RAG for mexican laws using sentence embeddings.
